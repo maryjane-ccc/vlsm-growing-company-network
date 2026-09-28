@@ -51,7 +51,7 @@ The central switch connects the two access switches to the router.
                               IT
 ```
 
-! [Complete Network Topology]()
+![Complete Network Topology](https://github.com/maryjane-ccc/vlsm-growing-company-network/blob/291ca0f505ff62dd71630d6700f05e0605a44154/Complete%20Network%20Topology.png)
 
 ---
 
