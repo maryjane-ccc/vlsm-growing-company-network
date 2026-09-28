@@ -8,6 +8,8 @@ The company was allocated the `172.16.0.0/16` network and required separate netw
 
 Instead of assigning the same subnet size to every department, I used VLSM to allocate address space based on each department's actual requirements, then implemented the design in **Cisco Packet Tracer** using VLANs, trunking, router-on-a-stick, DHCP, and static addressing.
 
+Download and view the pkt file here: https://drive.google.com/file/d/1XyxUTcMOdzhzXNjsD7rw-MUlTtiqOOsA/view?usp=drive_link
+
 ---
 
 ## Network Requirements
